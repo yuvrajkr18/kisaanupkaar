@@ -1,0 +1,6 @@
+{
+  "name": "KisaanUpkaar",
+  "description": "A digital farm management platform designed to help farmers manage their crops, fields, expenses and daily farming activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
